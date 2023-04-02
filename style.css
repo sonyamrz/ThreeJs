@@ -1,0 +1,28 @@
+:root {
+    font-size: 62.5%;
+    text-align: center;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    font-size: 700;
+}
+
+.all {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5rem;
+    gap: 15rem;
+}
+
+.threejs {
+    margin: 0 auto;
+    width: 70%;
+    
+    height: 400px;
+}
